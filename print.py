@@ -1,1 +1,0 @@
-print("tu dz vnS")
